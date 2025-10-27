@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎯 I’m currently working on React-based projects<br>🤝 I’m looking to collaborate on open-source web projects<br>🆘 I’m looking for help with<br>Mastering advanced JavaScript frameworks like React and Node.js.<br>🌱 I’m currently learning Next JS<br>💬 Ask me about<br>My journey into tech, favourite coding tools, or productivity hacks!<br>🎉 Fun fact:<br>I once coded to build a  web-site in 19 hours to submit it before <br>the deadline!
+🎯 I’m currently working on MERN-based projects<br>🤝 I’m looking to collaborate on open-source web projects<br>🆘 I’m looking for help with<br>Mastering advanced JavaScript frameworks like React and Node.js.<br>🌱 I’m currently learning Typescript <br>💬 Ask me about<br>My journey into tech, favourite coding tools, or productivity hacks!<br>🎉 Fun fact:<br>I once coded to build a  web-site in 19 hours to submit it before <br>the deadline!
 
 
 ## 🌐 Socials:
