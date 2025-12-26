@@ -12,7 +12,7 @@
 | | |
 |:---:|:---|
 | **Focus Area** | Full-Stack Development |
-| **Specialization** | MERN & PERN Stack |
+| **Specialization** | MERN Stack |
 | **Learning Path** | TypeScript → Advanced React → System Design |
 | **Collaboration** | Open to meaningful open-source contributions |
 
@@ -41,8 +41,8 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🚀 **Deployment & Hosting**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -53,44 +53,38 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+### 🛡️ **Authentication**
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-## 📊 GitHub Analysis
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shazid25&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazid25&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazid25&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🤝 Let's Collaborate
-
-I'm actively looking to contribute to:
-- 🔧 **Open-source web projects**
-- 🌐 **MERN/PERN stack applications**
-- 🎨 **UI/UX-focused web apps**
-
-## 📫 How to Reach Me
-
-- **Professional:** [LinkedIn](https://linkedin.com/in/irfan-shazid)
-- **Quick Chat:** [X (Twitter)](https://x.com/irfan_shazid07)
-- **Email:** [ishazid57@gmail.com](mailto:ishazid57@gmail.com)
-
----
+## 📊 GitHub Analytics
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=shazid25&color=blue&style=flat-square)
-  ![Followers](https://img.shields.io/github/followers/shazid25?style=social)
-  
-  *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+  <a href="https://github.com/shazid25">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shazid25&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazid25&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
   
 </div>
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=shazid25&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+</div>
+
+## 📈 Language Usage Chart
+
+Here's a detailed breakdown of my language usage across all public repositories:
+
+```text
+JavaScript   ████████████████████░░░░░░░░░░ 65.2%
+TypeScript   █████████████░░░░░░░░░░░░░░░░░ 48.7%
+HTML         ████████░░░░░░░░░░░░░░░░░░░░░░ 32.1%
+CSS          ██████░░░░░░░░░░░░░░░░░░░░░░░░ 25.4%
+Python       ████░░░░░░░░░░░░░░░░░░░░░░░░░░ 18.9%
+Markdown     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 12.3%
+JSON         ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10.8%
+Other        █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 8.5%
