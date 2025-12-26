@@ -12,7 +12,7 @@
 | | |
 |:---:|:---|
 | **Focus Area** | Full-Stack Development |
-| **Specialization** | MERN Stack |
+| **Specialization** | MERN & PERN Stack |
 | **Learning Path** | TypeScript → Advanced React → System Design |
 | **Collaboration** | Open to meaningful open-source contributions |
 
@@ -41,8 +41,8 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🚀 **Deployment & Hosting**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -61,30 +61,37 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <a href="https://github.com/shazid25">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shazid25&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazid25&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shazid25&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazid25&layout=donut&theme=dark&hide_border=true&langs_count=8" alt="Top Languages Chart" />
 </div>
 
 <div align="center">
-  
+  <br />
   [![GitHub Streak](https://streak-stats.demolab.com?user=shazid25&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
 </div>
 
-## 📈 Language Usage Chart
+## 🤝 Let's Collaborate
 
-Here's a detailed breakdown of my language usage across all public repositories:
+I'm actively looking to contribute to:
+- 🔧 **Open-source web projects**
+- 🌐 **MERN/PERN stack applications**
+- 🎨 **UI/UX-focused web apps**
+- 📚 **Educational tech projects**
 
-```text
-JavaScript   ████████████████████░░░░░░░░░░ 65.2%
-TypeScript   █████████████░░░░░░░░░░░░░░░░░ 48.7%
-HTML         ████████░░░░░░░░░░░░░░░░░░░░░░ 32.1%
-CSS          ██████░░░░░░░░░░░░░░░░░░░░░░░░ 25.4%
-Python       ████░░░░░░░░░░░░░░░░░░░░░░░░░░ 18.9%
-Markdown     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 12.3%
-JSON         ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10.8%
-Other        █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 8.5%
+## 📫 How to Reach Me
+
+- **Professional:** [LinkedIn](https://linkedin.com/in/irfan-shazid)
+- **Quick Chat:** [X (Twitter)](https://x.com/irfan_shazid07)
+- **Portfolio:** [GitHub](https://github.com/shazid25)
+- **Email:** [ishazid57@gmail.com](mailto:ishazid57@gmail.com)
+
+---
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=shazid25&color=blue&style=flat-square)
+  ![Followers](https://img.shields.io/github/followers/shazid25?style=social)
+  
+  *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+  
+</div>
