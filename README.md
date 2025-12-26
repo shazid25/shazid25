@@ -3,7 +3,7 @@
 🎯 **Currently working on:** MERN-based projects  
 🤝 **Looking to collaborate on:** Open-source web projects  
 🆘 **Seeking help with:** Mastering advanced JavaScript frameworks like React and Node.js  
-🌱 **Currently learning:** TypeScript & advanced React patterns  
+🌱 **Currently learning:** TypeScript & Next.js
 💬 **Ask me about:** My tech journey, favorite coding tools, or productivity hacks!  
 ⚡ **Fun fact:** I once built a complete website in 19 hours to meet a tight deadline!
 
