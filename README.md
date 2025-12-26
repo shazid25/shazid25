@@ -62,9 +62,8 @@
 
 I'm actively looking to contribute to:
 - 🔧 **Open-source web projects**
-- 🌐 **MERN/PERN stack applications**
+- 🌐 **Full stack applications**
 - 🎨 **UI/UX-focused web apps**
-- 📚 **Educational tech projects**
 
 ## 📫 How to Reach Me
 
