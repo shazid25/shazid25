@@ -55,23 +55,17 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🛡️ **Authentication**
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shazid25&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="shazid25's GitHub Stats" />
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazid25&layout=donut&theme=dark&hide_border=true&langs_count=6" alt="shazid25's Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shazid25&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazid25&layout=donut&theme=dark&hide_border=true&langs_count=6" />
 </div>
 
 <div align="center">
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazid25&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazid25&theme=dark&hide_border=true" />
 </div>
 
 ---
@@ -86,17 +80,16 @@ I'm actively looking to contribute to:
 ## 📫 How to Reach Me
 
 - **Professional:** [LinkedIn](https://linkedin.com/in/irfan-shazid)
-- **Quick Chat:** [X (Twitter)](https://x.com/irfan_shazid07)
 - **Portfolio:** [My Portfolio](https://irfanshazidportfolio.web.app/)
 - **Email:** [My Email](mailto:ishazid57@gmail.com)
 
 ---
 
 <div align="center">
-  
+
   ![Profile Views](https://komarev.com/ghpvc/?username=shazid25&color=blue&style=flat-square)
   ![Followers](https://img.shields.io/github/followers/shazid25?style=social)
-  
+
   *"Code is like humor. When you have to explain it, it's bad." – Cory House*
-  
+
 </div>
