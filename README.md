@@ -3,7 +3,7 @@
 🎯 **Currently working on:** MERN-based projects  
 🤝 **Looking to collaborate on:** Open-source web projects  
 🆘 **Seeking help with:** Mastering advanced JavaScript frameworks like React and Node.js  
-🌱 **Currently learning:** TypeScript & Next.js
+🌱 **Currently learning:** TypeScript & Next.js  
 💬 **Ask me about:** My tech journey, favorite coding tools, or productivity hacks!  
 ⚡ **Fun fact:** I once built a complete website in 19 hours to meet a tight deadline!
 
@@ -12,7 +12,7 @@
 | | |
 |:---:|:---|
 | **Focus Area** | Full-Stack Development |
-| **Specialization** | MERN Stack |
+| **Specialization** | MERN & PERN Stack |
 | **Learning Path** | TypeScript → Advanced React → System Design |
 | **Collaboration** | Open to meaningful open-source contributions |
 
@@ -41,7 +41,8 @@
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🗄️ **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🚀 **Deployment & Hosting**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -60,25 +61,20 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <a href="https://github.com/shazid25">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shazid25&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazid25&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shazid25&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazid25&layout=donut&theme=dark&hide_border=true&langs_count=8" alt="Top Languages Chart" />
 </div>
 
 <div align="center">
-  
+  <br />
   [![GitHub Streak](https://streak-stats.demolab.com?user=shazid25&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
 </div>
 
 ## 🤝 Let's Collaborate
 
 I'm actively looking to contribute to:
 - 🔧 **Open-source web projects**
-- 🌐 **MERN/MEAN stack applications**
+- 🌐 **MERN/PERN stack applications**
 - 🎨 **UI/UX-focused web apps**
 - 📚 **Educational tech projects**
 
