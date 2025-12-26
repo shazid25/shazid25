@@ -53,22 +53,23 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🛡️ **Authentication**
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analysis
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shazid25&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazid25&layout=donut&theme=dark&hide_border=true&langs_count=8" alt="Top Languages Chart" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shazid25&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazid25&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 <div align="center">
   <br />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=shazid25&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazid25&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
+
+---
 
 ## 🤝 Let's Collaborate
 
@@ -76,13 +77,11 @@ I'm actively looking to contribute to:
 - 🔧 **Open-source web projects**
 - 🌐 **MERN/PERN stack applications**
 - 🎨 **UI/UX-focused web apps**
-- 📚 **Educational tech projects**
 
 ## 📫 How to Reach Me
 
 - **Professional:** [LinkedIn](https://linkedin.com/in/irfan-shazid)
 - **Quick Chat:** [X (Twitter)](https://x.com/irfan_shazid07)
-- **Portfolio:** [GitHub](https://github.com/shazid25)
 - **Email:** [ishazid57@gmail.com](mailto:ishazid57@gmail.com)
 
 ---
