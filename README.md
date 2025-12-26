@@ -71,8 +71,8 @@ I'm actively looking to contribute to:
 
 - **Professional:** [LinkedIn](https://linkedin.com/in/irfan-shazid)
 - **Quick Chat:** [X (Twitter)](https://x.com/irfan_shazid07)
-- **Portfolio:** [MyPortfolio](https://irfanshazidportfolio.web.app/)
-- **Email:** [ishazid57@gmail.com](mailto:ishazid57@gmail.com)
+- **Portfolio:** [My Portfolio](https://irfanshazidportfolio.web.app/)
+- **Email:** [My Email](mailto:ishazid57@gmail.com)
 
 ---
 
