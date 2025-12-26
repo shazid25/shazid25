@@ -58,6 +58,24 @@
 ### 🛡️ **Authentication**
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shazid25&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="shazid25's GitHub Stats" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazid25&layout=donut&theme=dark&hide_border=true&langs_count=6" alt="shazid25's Top Languages" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazid25&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
 ## 🤝 Let's Collaborate
 
 I'm actively looking to contribute to:
