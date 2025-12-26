@@ -72,14 +72,9 @@
   
 </div>
 
-## 📈 Current Focus
+## 📊 Top Languages
 
-```text
-MERN Stack Development  ████████████████░░░░ 80%
-TypeScript Mastery      ████████████░░░░░░░░ 60%
-Advanced React Patterns ████████░░░░░░░░░░░░ 40%
-Open Source Contribution████████████████░░░░ 90%
-```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shazid25&layout=compact&theme=dark&hide_border=true)](https://github.com/shazid25)
 
 ## 🤝 Let's Collaborate
 
