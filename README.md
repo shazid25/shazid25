@@ -44,14 +44,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔐 **Authentication & Security**
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth-000000?style=for-the-badge&logo=oauth&logoColor=white)
-![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white)
-![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![bcrypt](https://img.shields.io/badge/bcrypt-003A70?style=for-the-badge&logo=key&logoColor=white)
-![Firebase Auth](https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
 ### 🚀 **Deployment & Hosting**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -63,17 +55,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 GitHub Analytics
+### 🛡️ **Authentication**
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shazid25&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazid25&layout=donut&theme=dark&hide_border=true&langs_count=8" alt="Top Languages Chart" />
-</div>
-
-<div align="center">
-  <br />
-  [![GitHub Streak](https://streak-stats.demolab.com?user=shazid25&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-</div>
 
 ## 🤝 Let's Collaborate
 
