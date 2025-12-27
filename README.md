@@ -13,7 +13,7 @@
 |:---:|:---|
 | **Focus Area** | Full-Stack Development |
 | **Specialization** | MERN & PERN Stack |
-| **Learning Path** | TypeScript → Advanced React → System Design |
+| **Learning Path** | TypeScript → System Design → Golang |
 | **Collaboration** | Open to meaningful open-source contributions |
 
 ## 🌐 Connect With Me
