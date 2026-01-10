@@ -12,7 +12,7 @@
 | | |
 |:---:|:---|
 | **Focus Area** | Full-Stack Development |
-| **Specialization** | MERN & PERN Stack |
+| **Specialization** | MERN Stack |
 | **Learning Path** | TypeScript → System Design → Golang |
 | **Collaboration** | Open to meaningful open-source contributions |
 
