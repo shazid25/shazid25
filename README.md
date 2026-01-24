@@ -13,7 +13,7 @@
 |:---:|:---|
 | **Focus Area** | Full-Stack Development |
 | **Specialization** | MERN Stack |
-| **Learning Path** | TypeScript → System Design → Golang |
+| **Learning Path** | TypeScript → Next.js → Golang |
 | **Collaboration** | Open to meaningful open-source contributions |
 
 ## 🌐 Connect With Me
