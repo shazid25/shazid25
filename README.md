@@ -15,7 +15,7 @@
 | **Learning Path** | TypeScript → System design → Next.js → Golang |
 | **Collaboration** | Open to meaningful open-source contributions |
 
-## 🌐 Connect With Me
+## 🌐 Click to Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irfan-shazid)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/irfan_shazid07)
