@@ -59,11 +59,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=monir6163&theme=dark" height="163em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monir6163&theme=dark" height="163em" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shazid25&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="shazid25 GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazid25&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="shazid25 Languages Chart" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazid25&theme=dark&hide_border=true" alt="shazid25 Contribution Streak" />
 </div>
 
 ---
