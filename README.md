@@ -11,7 +11,7 @@
 | | |
 |:---:|:---|
 | **Focus Area** | Full-Stack Development |
-| **Specialization** | MERN, PERN, TypeScript, Next.js |
+| **Specialization** | MERN, PERN, TypeScript, Next.js, Golang |
 | **Learning Path** | TypeScript → System design → Next.js → Golang |
 | **Collaboration** | Open to meaningful open-source contributions |
 
