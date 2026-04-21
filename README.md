@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🎯 **Currently working on:** MERN, PERN, TypeScript, Next.js based projects
+🎯 **Currently working on:** MERN, PERN, TypeScript, Next.js based projects 
 🤝 **Looking to collaborate on:** Open-source Full-Stack projects  
 🆘 **Seeking help with:** Mastering advanced JavaScript frameworks like React and Node.js  
 🌱 **Currently learning:** TypeScript & Next.js  
