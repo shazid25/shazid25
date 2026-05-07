@@ -1,6 +1,6 @@
 <!-- BANNER (SVG) – start -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=200&section=header&text=Irfan%20Shazid&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=MERN%20%7C%20PERN%20%7C%20TS%20%7C%20Next.js%20%7C%20Go%20%7C%20Python&descAlignY=60&descSize=18" alt="Irfan Shazid banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=300&section=header&text=Irfan%20Shazid&fontSize=70&fontColor=3b82f6&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js&descAlignY=55&descSize=20" alt="Irfan Shazid banner" />
 </div>
 <!-- BANNER – end -->
 
