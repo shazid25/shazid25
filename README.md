@@ -1,6 +1,6 @@
 <!-- BANNER (SVG) – start -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=300&section=header&text=Irfan%20Shazid&fontSize=70&fontColor=3b82f6&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js&descAlignY=55&descSize=20" alt="Irfan Shazid banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=irfan@dev:~$%20whoami&fontSize=50&fontColor=4ade80&fontAlignY=40&desc=Irfan%20Shazid%20--%20Full%20Stack%20Engineer&descAlignY=65&descSize=20&descColor=ffffff" alt="Linux Terminal Banner" />
 </div>
 <!-- BANNER – end -->
 
