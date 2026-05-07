@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Irfan%20Shazid&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20|%20PERN%20|%20Golang&descSize=20&descAlignY=60" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Irfan%20Shazid&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer%20|%20MERN%20|%20PERN%20|%20Golang&descSize=20&descAlignY=60&fontColor=58a6ff" alt="Irfan Shazid Banner" />
 </p>
 
 # 💫 About Me
@@ -8,6 +8,25 @@
 🤝 **Collaboration:** Open to meaningful Open-Source Full-Stack projects.  
 🌱 **Learning Journey:** Currently mastering **Golang**, **Python**, and System Design.  
 💬 **Ask me about:** My tech journey, productivity hacks, or why a remote workspace is the ultimate comfort zone.
+
+## 📋 System.init() Profile
+
+```json
+{
+  "name": "Irfan Shazid",
+  "role": "Full-Stack Web Developer",
+  "portfolio": "https://irfanshazidportfolio.web.app/",
+  "education": {
+    "university": "Shanto-Mariam University of Creative Technology",
+    "major": "Computer Science & Engineering",
+    "student_id": "251071076"
+  },
+  "specialization": ["MERN", "PERN", "Next.js", "TypeScript"],
+  "currently_learning": ["Golang", "Python", "System Design"],
+  "workspace_vibe": "Remote Comfort Zone",
+  "status": "Ready for Open-Source Collaboration"
+}
+
 
 ## 🚀 Quick Stats
 
