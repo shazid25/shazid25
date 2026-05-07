@@ -1,6 +1,3 @@
-Certainly! To create a profile banner like the one in your image, replace the top section of your markdown code (everything before `# 💫 About Me`) with the following block. This code uses a dynamic SVG render and your specific details to match the professional, animated style you requested.
-
-```markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=200&section=header&text=Irfan%20Shazid&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20|%20PERN%20|%20Golang&descSize=20&descAlignY=60" alt="Banner" />
 </p>
@@ -79,4 +76,3 @@ Certainly! To create a profile banner like the one in your image, replace the to
   ![Followers](https://img.shields.io/github/followers/shazid25?style=social)
 
 </div>
-```
