@@ -1,3 +1,9 @@
+<!-- BANNER (SVG) – start -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:8b5cf6&height=200&section=header&text=Irfan%20Shazid&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=MERN%20%7C%20PERN%20%7C%20TS%20%7C%20Next.js%20%7C%20Go%20%7C%20Python&descAlignY=60&descSize=18" alt="Irfan Shazid banner" />
+</div>
+<!-- BANNER – end -->
+
 # 💫 About Me
 
 🎯 **Currently working on:** MERN, PERN, TypeScript, Next.js based projects 
@@ -63,7 +69,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shazid25&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="shazid25 GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazid25&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="shazid25 Languages Chart" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazid25&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="shazid25 Languages Chart" />
 </div>
 
 <div align="center">
