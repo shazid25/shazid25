@@ -1,0 +1,146 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="1" stop-color="#0B1023"/>
+    </linearGradient>
+
+    <linearGradient id="titleGradient" x1="0" y1="0" x2="500" y2="0">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="60"/>
+    </filter>
+
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="0" stdDeviation="12" flood-color="#2563EB" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="500" fill="url(#bg)"/>
+
+  <circle cx="1400" cy="90" r="170" fill="#2563EB" opacity="0.15" filter="url(#blur)"/>
+  <circle cx="1490" cy="350" r="120" fill="#8B5CF6" opacity="0.12" filter="url(#blur)"/>
+  <circle cx="1180" cy="120" r="90" fill="#0EA5E9" opacity="0.10" filter="url(#blur)"/>
+
+  <line x1="70" y1="100" x2="70" y2="420" stroke="#38BDF8" stroke-width="3" opacity="0.8"/>
+
+  <text x="110" y="160"
+        fill="url(#titleGradient)"
+        font-size="64"
+        font-family="Segoe UI, sans-serif"
+        font-weight="700">
+    Irfan Shazid
+  </text>
+
+  <text x="110" y="220"
+        fill="#F8FAFC"
+        font-size="34"
+        font-family="Segoe UI, sans-serif"
+        font-weight="500">
+    Full Stack Engineer
+  </text>
+
+  <text x="110" y="290"
+        fill="#94A3B8"
+        font-size="24"
+        font-family="Segoe UI, sans-serif">
+    Building scalable web apps with modern technologies.
+  </text>
+
+  <rect x="110" y="340" width="720" height="90" rx="24"
+        fill="#0B1220"
+        stroke="#1E293B"
+        stroke-width="2"
+        filter="url(#shadow)"/>
+
+  <text x="150" y="395"
+        fill="#FACC15"
+        font-size="32"
+        font-family="Segoe UI, sans-serif"
+        font-weight="700">
+    JS
+  </text>
+
+  <text x="240" y="395"
+        fill="#38BDF8"
+        font-size="32"
+        font-family="Segoe UI, sans-serif"
+        font-weight="700">
+    TS
+  </text>
+
+  <text x="330" y="395"
+        fill="#61DAFB"
+        font-size="32"
+        font-family="Segoe UI, sans-serif"
+        font-weight="700">
+    React
+  </text>
+
+  <text x="470" y="395"
+        fill="#FFFFFF"
+        font-size="32"
+        font-family="Segoe UI, sans-serif"
+        font-weight="700">
+    Next.js
+  </text>
+
+  <text x="650" y="395"
+        fill="#22C55E"
+        font-size="32"
+        font-family="Segoe UI, sans-serif"
+        font-weight="700">
+    Node.js
+  </text>
+
+  <g filter="url(#shadow)">
+    <rect x="930" y="120" width="560" height="260" rx="24"
+          fill="#020617"
+          stroke="#1E293B"
+          stroke-width="2"/>
+  </g>
+
+  <circle cx="970" cy="155" r="9" fill="#FB7185"/>
+  <circle cx="1000" cy="155" r="9" fill="#FACC15"/>
+  <circle cx="1030" cy="155" r="9" fill="#4ADE80"/>
+
+  <text x="980" y="215"
+        fill="#38BDF8"
+        font-size="24"
+        font-family="Consolas, monospace">
+    const developer = {
+  </text>
+
+  <text x="1030" y="260"
+        fill="#A78BFA"
+        font-size="22"
+        font-family="Consolas, monospace">
+    role: "Full Stack",
+  </text>
+
+  <text x="1030" y="300"
+        fill="#4ADE80"
+        font-size="22"
+        font-family="Consolas, monospace">
+    stack: ["MERN", "PERN"],
+  </text>
+
+  <text x="1030" y="340"
+        fill="#F472B6"
+        font-size="22"
+        font-family="Consolas, monospace">
+    learning: ["Next.js", "TypeScript"]
+  </text>
+
+  <text x="980" y="380"
+        fill="#38BDF8"
+        font-size="24"
+        font-family="Consolas, monospace">
+    }
+  </text>
+
+</svg>
