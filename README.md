@@ -139,4 +139,9 @@ I'm actively looking to contribute to:
 ---
 
 <div align="center">
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=shazid25&color=blue&style=flat-square)
+
+![Followers](https://img.shields.io/github/followers/shazid25?style=social)
+
 </div>
